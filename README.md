@@ -95,6 +95,21 @@ With these gains, the robot achieved a smoother and more accurate convergence:
 
 ### Demo Video
 
+Here are the videos of the simulations on Gazebo:
+
+-**Turtlebot3 simulation on Gazebo executing a circular trajectory**:
+
+[![TurtleBot3 Demo](https://img.youtube.com/vi/N2PddIuptPw/maxresdefault.jpg)](https://youtu.be/N2PddIuptPw?si=nclN9V0YrMLUiI0l)
+
+---
+
+-**Turtlebot3 simulation on Gazebo executing an 8-figure trajectory**:
+
+
+[![TurtleBot3 Demo](https://img.youtube.com/vi/N2PddIuptPw/maxresdefault.jpg)](https://youtu.be/Dwkta2YeKmA?si=ya3kU3bkajnyAljg)
+
+---
+
 Check out the demonstration of the TurtleBot3 in action:
 
 - **Turtlebot3 executing a circular trajectory without disturbances**:
