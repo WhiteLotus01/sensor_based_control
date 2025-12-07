@@ -1,0 +1,21 @@
+[0.713s] Invoking command in '/home/julie/turtlebot_ws/src/turtlebot2_controler': PYTHONPATH=/home/julie/turtlebot_ws/build/turtlebot2_controler/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/julie/turtlebot_ws/install/turtlebot2_controler/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/turtlebot2_controler build --build-base /home/julie/turtlebot_ws/build/turtlebot2_controler/build install --record /home/julie/turtlebot_ws/build/turtlebot2_controler/install.log --single-version-externally-managed install_data
+[0.967s] running egg_info
+[0.967s] writing ../../build/turtlebot2_controler/turtlebot2_controler.egg-info/PKG-INFO
+[0.968s] writing dependency_links to ../../build/turtlebot2_controler/turtlebot2_controler.egg-info/dependency_links.txt
+[0.968s] writing entry points to ../../build/turtlebot2_controler/turtlebot2_controler.egg-info/entry_points.txt
+[0.968s] writing requirements to ../../build/turtlebot2_controler/turtlebot2_controler.egg-info/requires.txt
+[0.969s] writing top-level names to ../../build/turtlebot2_controler/turtlebot2_controler.egg-info/top_level.txt
+[0.971s] reading manifest file '../../build/turtlebot2_controler/turtlebot2_controler.egg-info/SOURCES.txt'
+[0.972s] writing manifest file '../../build/turtlebot2_controler/turtlebot2_controler.egg-info/SOURCES.txt'
+[0.972s] running build
+[0.972s] running build_py
+[0.973s] running install
+[0.973s] running install_lib
+[0.974s] running install_data
+[0.974s] running install_egg_info
+[0.976s] removing '/home/julie/turtlebot_ws/install/turtlebot2_controler/lib/python3.10/site-packages/turtlebot2_controler-0.0.0-py3.10.egg-info' (and everything under it)
+[0.977s] Copying ../../build/turtlebot2_controler/turtlebot2_controler.egg-info to /home/julie/turtlebot_ws/install/turtlebot2_controler/lib/python3.10/site-packages/turtlebot2_controler-0.0.0-py3.10.egg-info
+[0.978s] running install_scripts
+[0.998s] Installing controller_node script to /home/julie/turtlebot_ws/install/turtlebot2_controler/lib/turtlebot2_controler
+[0.999s] writing list of installed files to '/home/julie/turtlebot_ws/build/turtlebot2_controler/install.log'
+[1.024s] Invoked command in '/home/julie/turtlebot_ws/src/turtlebot2_controler' returned '0': PYTHONPATH=/home/julie/turtlebot_ws/build/turtlebot2_controler/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/julie/turtlebot_ws/install/turtlebot2_controler/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/turtlebot2_controler build --build-base /home/julie/turtlebot_ws/build/turtlebot2_controler/build install --record /home/julie/turtlebot_ws/build/turtlebot2_controler/install.log --single-version-externally-managed install_data

@@ -1,0 +1,31 @@
+running egg_info
+creating ../../build/turtlebot2_controler/turtlebot2_controler.egg-info
+writing ../../build/turtlebot2_controler/turtlebot2_controler.egg-info/PKG-INFO
+writing dependency_links to ../../build/turtlebot2_controler/turtlebot2_controler.egg-info/dependency_links.txt
+writing entry points to ../../build/turtlebot2_controler/turtlebot2_controler.egg-info/entry_points.txt
+writing requirements to ../../build/turtlebot2_controler/turtlebot2_controler.egg-info/requires.txt
+writing top-level names to ../../build/turtlebot2_controler/turtlebot2_controler.egg-info/top_level.txt
+writing manifest file '../../build/turtlebot2_controler/turtlebot2_controler.egg-info/SOURCES.txt'
+reading manifest file '../../build/turtlebot2_controler/turtlebot2_controler.egg-info/SOURCES.txt'
+writing manifest file '../../build/turtlebot2_controler/turtlebot2_controler.egg-info/SOURCES.txt'
+running build
+running build_py
+creating /home/julie/turtlebot_ws/build/turtlebot2_controler/build
+creating /home/julie/turtlebot_ws/build/turtlebot2_controler/build/lib
+creating /home/julie/turtlebot_ws/build/turtlebot2_controler/build/lib/turtlebot2_controler
+copying turtlebot2_controler/__init__.py -> /home/julie/turtlebot_ws/build/turtlebot2_controler/build/lib/turtlebot2_controler
+running install
+running install_lib
+creating /home/julie/turtlebot_ws/install/turtlebot2_controler/lib/python3.10/site-packages/turtlebot2_controler
+copying /home/julie/turtlebot_ws/build/turtlebot2_controler/build/lib/turtlebot2_controler/__init__.py -> /home/julie/turtlebot_ws/install/turtlebot2_controler/lib/python3.10/site-packages/turtlebot2_controler
+byte-compiling /home/julie/turtlebot_ws/install/turtlebot2_controler/lib/python3.10/site-packages/turtlebot2_controler/__init__.py to __init__.cpython-310.pyc
+running install_data
+creating /home/julie/turtlebot_ws/install/turtlebot2_controler/share/ament_index
+creating /home/julie/turtlebot_ws/install/turtlebot2_controler/share/ament_index/resource_index
+creating /home/julie/turtlebot_ws/install/turtlebot2_controler/share/ament_index/resource_index/packages
+copying resource/turtlebot2_controler -> /home/julie/turtlebot_ws/install/turtlebot2_controler/share/ament_index/resource_index/packages
+copying package.xml -> /home/julie/turtlebot_ws/install/turtlebot2_controler/share/turtlebot2_controler
+running install_egg_info
+Copying ../../build/turtlebot2_controler/turtlebot2_controler.egg-info to /home/julie/turtlebot_ws/install/turtlebot2_controler/lib/python3.10/site-packages/turtlebot2_controler-0.0.0-py3.10.egg-info
+running install_scripts
+writing list of installed files to '/home/julie/turtlebot_ws/build/turtlebot2_controler/install.log'

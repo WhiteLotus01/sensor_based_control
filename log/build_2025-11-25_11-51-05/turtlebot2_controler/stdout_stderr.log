@@ -1,0 +1,19 @@
+running egg_info
+writing ../../build/turtlebot2_controler/turtlebot2_controler.egg-info/PKG-INFO
+writing dependency_links to ../../build/turtlebot2_controler/turtlebot2_controler.egg-info/dependency_links.txt
+writing entry points to ../../build/turtlebot2_controler/turtlebot2_controler.egg-info/entry_points.txt
+writing requirements to ../../build/turtlebot2_controler/turtlebot2_controler.egg-info/requires.txt
+writing top-level names to ../../build/turtlebot2_controler/turtlebot2_controler.egg-info/top_level.txt
+reading manifest file '../../build/turtlebot2_controler/turtlebot2_controler.egg-info/SOURCES.txt'
+writing manifest file '../../build/turtlebot2_controler/turtlebot2_controler.egg-info/SOURCES.txt'
+running build
+running build_py
+running install
+running install_lib
+running install_data
+running install_egg_info
+removing '/home/julie/turtlebot_ws/install/turtlebot2_controler/lib/python3.10/site-packages/turtlebot2_controler-0.0.0-py3.10.egg-info' (and everything under it)
+Copying ../../build/turtlebot2_controler/turtlebot2_controler.egg-info to /home/julie/turtlebot_ws/install/turtlebot2_controler/lib/python3.10/site-packages/turtlebot2_controler-0.0.0-py3.10.egg-info
+running install_scripts
+Installing controller_node script to /home/julie/turtlebot_ws/install/turtlebot2_controler/lib/turtlebot2_controler
+writing list of installed files to '/home/julie/turtlebot_ws/build/turtlebot2_controler/install.log'
