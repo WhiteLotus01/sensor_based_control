@@ -105,8 +105,7 @@ Here are the videos of the simulations on Gazebo:
 
 -**Turtlebot3 simulation on Gazebo executing an 8-figure trajectory**:
 
-
-[![TurtleBot3 Demo](https://img.youtube.com/vi/N2PddIuptPw/maxresdefault.jpg)](https://youtu.be/Dwkta2YeKmA?si=ya3kU3bkajnyAljg)
+[![TurtleBot3 Demo](images/Turtlebot3_Gazebo_8-figure_trajectory_Sensor-Based_control_project.png)](https://youtu.be/Dwkta2YeKmA?si=ya3kU3bkajnyAljg)
 
 ---
 
