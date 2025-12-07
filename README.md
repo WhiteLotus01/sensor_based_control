@@ -45,6 +45,15 @@ On terminal 2:
 `ros2 run turtlebot2_controller controller_node`
 ```
 
+### Results
+
+
+
+![TurtleBot3 simulation with k1=1, k2=3 and k3=2](images/result_1.png)
+
+
+
+![TurtleBot3 simulation with k1=22, k2=140 and k3=0.14](images/result_2.png)
 
 ### Notes
 
