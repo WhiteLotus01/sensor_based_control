@@ -52,12 +52,33 @@ On terminal 2:
 
 ### Results
 
+The following results were obtained using the MATLAB simulation code.
 
+---
+
+#### First Test: Initial Parameters  
+We first tested the controller with the following parameters:
+
+- **k1 = 1**  
+- **k2 = 3**  
+- **k3 = 2**
+
+The resulting trajectory and control behavior are shown below:
 
 ![TurtleBot3 simulation with k1=1, k2=3 and k3=2](images/result_1.png)
 
 
+---
 
+#### Optimized Parameters  
+To improve performance, we used an optimization function to find a better set of parameters.  
+The best parameters obtained were:
+
+- **k1 = 22**  
+- **k2 = 140**  
+- **k3 = 0.14**
+
+With these gains, the robot achieved a smoother and more accurate convergence: 
 ![TurtleBot3 simulation with k1=22, k2=140 and k3=0.14](images/result_2.png)
 
 ### Notes
