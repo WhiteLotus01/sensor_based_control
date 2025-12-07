@@ -16,38 +16,50 @@ Make sure the TurtleBot3 environment variables are correctly set.
 
 ## To launch the demo on Gazebo:
 
+Ensure your workspace is built with:
+
+```bash
+colcon build
+```
+
 On terminal 1: 
 
 ```bash
-`export TURTLEBOT3_MODEL=burger`
+export TURTLEBOT3_MODEL=burger
 
-`ros2 launch turtlebot3_gazebo empty_world.launch.py`
+ros2 launch turtlebot3_gazebo empty_world.launch.py
 
 ```
 
 On terminal 2:
 ```bash
-`ros2 run turtlebot2_controler controller_node`
+ros2 run turtlebot2_controler controller_node
 ```
 
 
 ## To launch on turtlebot:
 
+Ensure your workspace is built with:
+
+```bash
+colcon build
+```
+
 On terminal 1:
 ```bash
-`export TURTLEBOT3_MODEL=burger`
+export TURTLEBOT3_MODEL=burger
 
-`ros2 launch turtlebot3_bringup robot.launch.py`
+ros2 launch turtlebot3_bringup robot.launch.py
 ```
 
 On terminal 2:
 
 ```bash
-`cd ~/turtlebot_ws`
+cd ~/turtlebot_ws
 
-`source install/setup.bash`
+source install/setup.bash
 
-`ros2 run turtlebot2_controller controller_node`
+ros2 run turtlebot2_controller controller_node
 ```
 
 ### Results
@@ -112,9 +124,3 @@ Check out the demonstration of the TurtleBot3 in action:
 ### Notes
 
 All text formatted as `this` represents commands to be entered in your terminal.
-
-Ensure your workspace is built with:
-
-```bash
-colcon build
-```
