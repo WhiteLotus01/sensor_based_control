@@ -19,6 +19,10 @@ Make sure the TurtleBot3 environment variables are correctly set.
 Ensure your workspace is built with:
 
 ```bash
+cd ~/turtlebot_ws
+
+source install/setup.bash
+
 colcon build
 ```
 
@@ -42,6 +46,10 @@ ros2 run turtlebot2_controler controller_node
 Ensure your workspace is built with:
 
 ```bash
+cd ~/turtlebot_ws
+
+source install/setup.bash
+
 colcon build
 ```
 
