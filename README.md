@@ -1,5 +1,10 @@
 # Sensor Based Control project of a robust control of a two wheeled mobile robot with kinematic disturbances
 
+## Introduction
+
+These codes are part of our Sensor-Based Control course project. The objective was to design a robust nonlinear controller for a two-wheeled mobile robot. Our implementation uses Lyapunov-based methods to compute tracking errors and generate control commands. The goal was for the robot to successfully follow circular and figure-eight trajectories, and to recover its intended path when subjected to disturbances.
+We validated our controller through simulations in MATLAB and ROS 2, using Gazebo for the physics simulation and on a real TurtleBot3 platform. Follow the steps below to reproduce our results.
+
 ## Requirements
 
 - **ROS2** (Humble / Foxy depending on your setup)  
