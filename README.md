@@ -81,6 +81,15 @@ The best parameters obtained were:
 With these gains, the robot achieved a smoother and more accurate convergence: 
 ![TurtleBot3 simulation with k1=22, k2=140 and k3=0.14](images/result_2.png)
 
+### Demo Video
+
+Check out the demonstration of the TurtleBot3 in action:
+
+Turtlebot3 executing a circular trajectory without distrubances:
+
+[![TurtleBot3 Demo](https://img.youtube.com/vi/9IxJSNSZkdM/maxresdefault.jpg)](https://youtu.be/9IxJSNSZkdM?si=vafsDf1WFZ54jjcL)
+
+
 ### Notes
 
 All text formatted as `this` represents commands to be entered in your terminal.
