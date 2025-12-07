@@ -85,9 +85,28 @@ With these gains, the robot achieved a smoother and more accurate convergence:
 
 Check out the demonstration of the TurtleBot3 in action:
 
-Turtlebot3 executing a circular trajectory without distrubances:
+- **Turtlebot3 executing a circular trajectory without disturbances**:
 
 [![TurtleBot3 Demo](https://img.youtube.com/vi/9IxJSNSZkdM/maxresdefault.jpg)](https://youtu.be/9IxJSNSZkdM?si=vafsDf1WFZ54jjcL)
+
+---
+
+- **Turtlebot3 executing a circular trajectory and subject to disturbances**:
+
+[![TurtleBot3 Demo](https://img.youtube.com/vi/3GcwZSdvdHo/maxresdefault.jpg)](https://youtu.be/3GcwZSdvdHo?si=5MqoUZzCAkrvAtBx)
+
+---
+
+- **Turtlebot3 executing an 8-figure trajectory without disturbances**:
+
+[![TurtleBot3 Demo](https://img.youtube.com/vi/WMXil5RAkDc/maxresdefault.jpg)](https://youtu.be/WMXil5RAkDc?si=uph0I2CauhQZ4HhK)
+
+---
+
+- **Turtlebot3 executing an 8-figure trajectory and subject to disturbances**:
+
+[![TurtleBot3 Demo](https://img.youtube.com/vi/lh_094wDliU/maxresdefault.jpg)](https://youtu.be/lh_094wDliU?si=-i92_aoB8_ao9pc2)
+
 
 
 ### Notes
