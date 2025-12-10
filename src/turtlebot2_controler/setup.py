@@ -25,6 +25,7 @@ setup(
     entry_points={
         'console_scripts': [
             'controller_node = turtlebot2_controler.controller_node:main',
+            'plot_trajectory = turtlebot2_controler.plot_trajectory:main',
         ],
     },
 )
