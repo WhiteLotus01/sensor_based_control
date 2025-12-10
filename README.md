@@ -134,7 +134,13 @@ Using *plot_trajectory.py* in *turtlebot_ws/src/turtlebot2_controler/turtlebot2_
 
 - **Turtlebot3 executing a circular trajectory and subject to disturbances**:
 
+*With disturbances:*
+
 [![TurtleBot3 Demo](https://img.youtube.com/vi/3GcwZSdvdHo/maxresdefault.jpg)](https://youtu.be/3GcwZSdvdHo?si=5MqoUZzCAkrvAtBx)
+
+*With continuous disturbances:*
+
+[![TurtleBot3 Demo](https://img.youtube.com/vi/3GcwZSdvdHo/maxresdefault.jpg)](https://youtu.be/GCfvjkGvJVU?si=ntMsTz6HT-oMRVyM)
 
 *TurtleBot3 plotted path of a circular trajectory with disturbances:*
 
@@ -154,7 +160,13 @@ Using *plot_trajectory.py* in *turtlebot_ws/src/turtlebot2_controler/turtlebot2_
 
 - **Turtlebot3 executing an 8-figure trajectory and subject to disturbances**:
 
+*With disturbances:*
+
 [![TurtleBot3 Demo](https://img.youtube.com/vi/lh_094wDliU/maxresdefault.jpg)](https://youtu.be/lh_094wDliU?si=-i92_aoB8_ao9pc2)
+
+*With continuous disturbances:*
+
+[![TurtleBot3 Demo](https://img.youtube.com/vi/3GcwZSdvdHo/maxresdefault.jpg)](https://youtu.be/ZN1vMrKDFKg?si=3jCWMzAWvOWCg4YE)
 
 *TurtleBot3 plotted path of an 8-figure trajectory with disturbances:*
 
