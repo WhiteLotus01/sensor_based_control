@@ -176,3 +176,8 @@ Using *plot_trajectory.py* in *turtlebot_ws/src/turtlebot2_controler/turtlebot2_
 ### Notes
 
 All text formatted as `this` represents commands to be entered in your terminal.
+
+
+### Source
+
+- Article used: Robust control of a mobile robot system with kinematic disturbances
